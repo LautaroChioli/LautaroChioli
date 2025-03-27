@@ -3,9 +3,6 @@
 ## I'm Lautaro Chioli, a student and future Computer Scientist from Argentina.
 
 - :books: I'm studying in the E.E.S.T N°7 TRQ
-- :school: Virtually taking the 1st year in the University of Buenos Aires
-- :bulb: Always looking to innovate and develop new tools
-- :zap: My hobbies are playing the guitar, playing videogames and fiction literature
 
 <br>
 
