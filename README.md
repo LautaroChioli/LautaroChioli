@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## I'm Lautaro Chioli, a student and future Computer Scientist from Argentina.
+## :books: I'm Lautaro Chioli, a student of Computer Science in the University of Buenos Aires
 
-- :books: I'm studying in University of Buenos Aires
 
 <br>
 
