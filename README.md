@@ -18,6 +18,6 @@
 
 <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/LautaroChioli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/LautaroChioli&hide=javascript,html)
 
 </details>
