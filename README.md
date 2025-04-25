@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## :books: I'm Lautaro Chioli, a Computer Science student at the University of Buenos Aires
+Computer Science student at the University of Buenos Aires
 
 
 <br>
